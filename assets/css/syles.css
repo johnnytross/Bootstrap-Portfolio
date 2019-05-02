@@ -13,7 +13,7 @@ li {
 .container {
     margin-top: -8px;
     margin-bottom: -8px;
-    width: 960px;
+    width: auto;
 }
 .navbar {
     border-bottom: 5px #8b8b8b;
